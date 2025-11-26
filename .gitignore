@@ -1,0 +1,18 @@
+bin/
+obj/
+
+# Rider / VS tooling
+.idea/
+.vs/
+*.user
+*.suo
+*.userprefs
+
+# Build artifacts
+*.dll
+*.exe
+*.pdb
+
+# OS cruft
+.DS_Store
+Thumbs.db
